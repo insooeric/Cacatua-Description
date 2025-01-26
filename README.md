@@ -10,3 +10,4 @@ The project implements shadcn/ui, Tailwind CSS, etc. along with Electron Forge u
 ![Image](https://github.com/user-attachments/assets/cd2aeb4e-46a6-4214-994c-c0715a1b1076)
 
 ## Demo Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/t9gAavqbSgY/0.jpg)](https://www.youtube.com/watch?v=t9gAavqbSgY)
