@@ -1,5 +1,5 @@
 # Cacatua
-<a href="https://www.electronjs.org/" target="_blank" style="text-decoration: none;">
+<a href="https://www.electronjs.org/" target="_blank" style="text-decoration: none; border: none;">
 <img src="https://github.com/insooeric/Cacatua-Description/blob/main/Electron.svg" alt="Image" width="30" title="Electron"/>
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank">
