@@ -1,5 +1,5 @@
 # Cacatua
-[![Electron](https://skillicons.dev/icons?i=electron,html,css,wasm)](https://skillicons.dev)
+![Image](https://github.com/user-attachments/assets/e62061ab-b4f9-4cf2-b472-91cbbf41c4cc)
 Application unifying socialization and project management.
 
 ## Overview
