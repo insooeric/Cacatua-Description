@@ -1,5 +1,5 @@
 # Cacatua
-<ul style="list-style: none; margin: 0; padding: 0;">
+<ul style="list-style: none;">
   <li style="text-decoration: none;">
     <a href="https://www.electronjs.org/" target="_blank">
     <img src="https://github.com/insooeric/Cacatua-Description/blob/main/Electron.svg" alt="Image" width="30" title="Electron"/>
