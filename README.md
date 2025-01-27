@@ -1,6 +1,5 @@
 # Cacatua
-<img src="https://github.com/insooeric/Cacatua-Description/blob/main/Electron.svg" alt="Image" width="30" />
-<img src="https://github.com/insooeric/Cacatua-Description/blob/main/TypeScript.svg" alt="Image" width="30" />
+<img src="https://github.com/insooeric/Cacatua-Description/blob/main/Electron.svg" alt="Image" width="30" /><img src="https://github.com/insooeric/Cacatua-Description/blob/main/TypeScript.svg" alt="Image" width="30" />
 <img src="https://github.com/insooeric/Cacatua-Description/blob/main/React.svg" alt="Image" width="30" />
 <img src="https://github.com/insooeric/Cacatua-Description/blob/main/Shadcn_UI.svg" alt="Image" width="30" />
 <img src="https://github.com/insooeric/Cacatua-Description/blob/main/Zod.svg" alt="Image" width="30" />
