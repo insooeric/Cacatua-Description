@@ -21,7 +21,7 @@ The project is currently private. This repository is for demonstration.
 
 ## Example picture
 
-![Image](https://github.com/user-attachments/assets/cd2aeb4e-46a6-4214-994c-c0715a1b1076)
+<img src="https://github.com/insooeric/Cacatua-Description/blob/main/cacatua_pic1.png" alt="Cacatua_Img"/>
 
 ## Demo Video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/t9gAavqbSgY/0.jpg)](https://www.youtube.com/watch?v=t9gAavqbSgY)
