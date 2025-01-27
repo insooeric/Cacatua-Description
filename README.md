@@ -1,5 +1,5 @@
 # Cacatua
-<img src="https://github.com/user-attachments/assets/e62061ab-b4f9-4cf2-b472-91cbbf41c4cc" alt="Image" width="30" />
+<img src="https://github.com/insooeric/Cacatua-Description/blob/main/Electron.svg" alt="Image" width="30" />
 
 Application unifying socialization and project management.
 
