@@ -1,17 +1,43 @@
 # Cacatua
-<a href="https://www.electronjs.org/">
+<a href="https://www.electronjs.org/" target="_blank">
 <img src="https://github.com/insooeric/Cacatua-Description/blob/main/Electron.svg" alt="Image" width="30" title="Electron"/>
 </a>
 
+<a href="https://www.typescriptlang.org/" target="_blank">
 <img src="https://github.com/insooeric/Cacatua-Description/blob/main/TypeScript.svg" alt="Image" width="30" title="TypeScript"/>
+</a>
+
+<a href="https://react.dev/" target="_blank">
 <img src="https://github.com/insooeric/Cacatua-Description/blob/main/React.svg" alt="Image" width="30" title="React"/>
+</a>
+
+<a href="https://ui.shadcn.com/" target="_blank">
 <img src="https://github.com/insooeric/Cacatua-Description/blob/main/Shadcn_UI.svg" alt="Image" width="30" title="Shadcn/UI"/>
+</a>
+
+<a href="https://zod.dev/" target="_blank">
 <img src="https://github.com/insooeric/Cacatua-Description/blob/main/Zod.svg" alt="Image" width="30" title="Zod"/>
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
 <img src="https://github.com/insooeric/Cacatua-Description/blob/main/TailwindCSS.svg" alt="Image" width="30" title="Tailwind CSS"/>
-<img src="https://github.com/insooeric/Cacatua-Description/blob/main/C_Sharp.svg" alt="Image" width="30" title="C Sharp"/>
+</a>
+
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank">
 <img src="https://github.com/insooeric/Cacatua-Description/blob/main/DotNet.svg" alt="Image" width="30" title="DotNet"/>
+</a>
+
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
+<img src="https://github.com/insooeric/Cacatua-Description/blob/main/C_Sharp.svg" alt="Image" width="30" title="C Sharp"/>
+</a>
+
+<a href="https://firebase.google.com/?hl=en" target="_blank">
 <img src="https://github.com/insooeric/Cacatua-Description/blob/main/Firebase.svg" alt="Image" width="30" title="Firebase"/>
+</a>
+
+<a href="https://auth0.com/" target="_blank">
 <img src="https://github.com/insooeric/Cacatua-Description/blob/main/OAuth.jpeg" alt="Image" width="30" title="OAuth"/>
+</a>
 
 Application unifying socialization and project management.
 
