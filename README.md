@@ -1,14 +1,14 @@
 # Cacatua
 <img src="https://github.com/insooeric/Cacatua-Description/blob/main/Electron.svg" alt="Image" width="30" title="Electron"/>
-<img src="https://github.com/insooeric/Cacatua-Description/blob/main/TypeScript.svg" alt="Image" width="30" />
-<img src="https://github.com/insooeric/Cacatua-Description/blob/main/React.svg" alt="Image" width="30" />
-<img src="https://github.com/insooeric/Cacatua-Description/blob/main/Shadcn_UI.svg" alt="Image" width="30" />
-<img src="https://github.com/insooeric/Cacatua-Description/blob/main/Zod.svg" alt="Image" width="30" />
-<img src="https://github.com/insooeric/Cacatua-Description/blob/main/TailwindCSS.svg" alt="Image" width="30" />
-<img src="https://github.com/insooeric/Cacatua-Description/blob/main/C_Sharp.svg" alt="Image" width="30" />
-<img src="https://github.com/insooeric/Cacatua-Description/blob/main/DotNet.svg" alt="Image" width="30" />
-<img src="https://github.com/insooeric/Cacatua-Description/blob/main/Firebase.svg" alt="Image" width="30" />
-<img src="https://github.com/insooeric/Cacatua-Description/blob/main/OAuth.jpeg" alt="Image" width="30" />
+<img src="https://github.com/insooeric/Cacatua-Description/blob/main/TypeScript.svg" alt="Image" width="30" title="TypeScript"/>
+<img src="https://github.com/insooeric/Cacatua-Description/blob/main/React.svg" alt="Image" width="30" title="React"/>
+<img src="https://github.com/insooeric/Cacatua-Description/blob/main/Shadcn_UI.svg" alt="Image" width="30" title="Shadcn/UI"/>
+<img src="https://github.com/insooeric/Cacatua-Description/blob/main/Zod.svg" alt="Image" width="30" title="Zod"/>
+<img src="https://github.com/insooeric/Cacatua-Description/blob/main/TailwindCSS.svg" alt="Image" width="30" title="Tailwind CSS"/>
+<img src="https://github.com/insooeric/Cacatua-Description/blob/main/C_Sharp.svg" alt="Image" width="30" title="C Sharp"/>
+<img src="https://github.com/insooeric/Cacatua-Description/blob/main/DotNet.svg" alt="Image" width="30" title="DotNet"/>
+<img src="https://github.com/insooeric/Cacatua-Description/blob/main/Firebase.svg" alt="Image" width="30" title="Firebase"/>
+<img src="https://github.com/insooeric/Cacatua-Description/blob/main/OAuth.jpeg" alt="Image" width="30" title="OAuth"/>
 
 Application unifying socialization and project management.
 
