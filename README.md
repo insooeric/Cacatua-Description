@@ -1,10 +1,9 @@
 # Cacatua
-<ul>
+<ul style="list-style: none;">
   <li>
-    
-<a href="https://www.electronjs.org/" target="_blank" style="text-decoration: none;">
-<img src="https://github.com/insooeric/Cacatua-Description/blob/main/Electron.svg" alt="Image" width="30" title="Electron"/>
-</a>
+    <a href="https://www.electronjs.org/" target="_blank">
+    <img src="https://github.com/insooeric/Cacatua-Description/blob/main/Electron.svg" alt="Image" width="30" title="Electron"/>
+    </a>
   </li>
 </ul>
 <a href="https://www.typescriptlang.org/" target="_blank">
