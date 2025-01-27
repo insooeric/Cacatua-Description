@@ -7,8 +7,11 @@ The project implements shadcn/ui, Tailwind CSS, etc. along with Electron Forge u
 
 ## Contributers
 [@insooeric](https://github.com/insooeric)
+
 [@Llevere](https://github.com/Llevere)
+
 [@Garenium](https://github.com/Garenium)
+
 [@brendokht](https://github.com/brendokht)
 
 ## Example picture
